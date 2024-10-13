@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Hyuksun-log",
     description: "welcome to Hyuksun-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
